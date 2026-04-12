@@ -1,10 +1,10 @@
-<h1 align="center">Hi 👋, I'm Smriti Chanak</h1>
-<h3 align="center">Full Stack Web Developer | Learning AI 🚀</h3>
+<h1 align="center">Hello 👋, I'm Smriti Chanak</h1>
+<h3 align="center">Full Stack Web Developer👩‍💻🌐</h3>
 
 ---
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?color=00F7FF&center=true&vCenter=true&lines=Web+Developer;CSE+Student;Learning+AI+and+ML;Building+Creative+Projects" />
+  <img src="https://readme-typing-svg.herokuapp.com?color=00F7FF&center=true&vCenter=true&lines=Web+Developer;Learning+AI+and+ML;Building+Creative+Projects" />
 </p>
 
 ---
@@ -26,7 +26,7 @@
 
 - 🎓 CSE Student  
 - 💻 Passionate about Web Development & Problem Solving  
-- 👩‍💻 Skilled in Java, React, PHP with MySQL  
+- 👩‍💻 Skilled in Java, React, PHP with MySQL, Python
 - 🗄️ Strong understanding of DBMS  
 - 🧠 Practicing Data Structures & Algorithms (DSA)  
 - 🤖 Currently exploring AI & Machine Learning  
@@ -46,7 +46,7 @@
 ## 📌 Featured Projects
 
 - 🚀 Resume Builder Website  
-- 🌐 Portfolio Website (Coming Soon)  
+- 🌐 Portfolio Website
 
 ---
 
