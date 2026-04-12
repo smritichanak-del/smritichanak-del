@@ -34,9 +34,8 @@
 ## 🛠️ Skills & Tools
 
 <p align="center">
-  <img src="[https://skillicons.dev/icons?i=html,css,js,Python,git,github,vscode](https://skillicons.dev/icons?i=html,css,js,react,java,php,mysql,git,github,vscode)" />
+  <img src="https://skillicons.dev/icons?i=html,css,js,react,java,php,mysql,Python,git,github,vscode" />
 </p>
-
 ---
 ## 📌 Featured Projects
 
