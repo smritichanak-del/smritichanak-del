@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Smriti Chanak</h1>
-<h3 align="center">CSE Student | Web Developer | Learning AI 🚀</h3>
+<h3 align="center">Full Stack Web Developer | Learning AI 🚀</h3>
 
 ---
 
@@ -25,10 +25,13 @@
 ## 🚀 About Me
 
 - 🎓 CSE Student  
-- 💻 Passionate about Web Development  
-- 🤖 Currently learning AI & Machine Learning  
+- 💻 Passionate about Web Development & Problem Solving  
+- 👩‍💻 Skilled in Java, React, PHP with MySQL  
+- 🗄️ Strong understanding of DBMS  
+- 🧠 Practicing Data Structures & Algorithms (DSA)  
+- 🤖 Currently exploring AI & Machine Learning  
 - 🔥 Love building real-world projects  
-- 🌱 Always learning new technologies  
+- 🌱 Always learning and improving my skills  
 
 ---
 
