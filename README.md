@@ -2,13 +2,11 @@
 <h3 align="center">Full Stack Web Developer👩‍💻🌐</h3>
 
 ---
-
 <p align="center">
   <img src="https://readme-typing-svg.herokuapp.com?color=00F7FF&center=true&vCenter=true&lines=Web+Developer;Learning+AI+and+ML;Building+Creative+Projects" />
 </p>
 
 ---
-
 ## 🌐 Connect with me
 
 <p align="center">
@@ -21,7 +19,6 @@
 </p>
 
 ---
-
 ## 🚀 About Me
 
 - 🎓 CSE Student  
@@ -34,20 +31,19 @@
 - 🌱 Always learning and improving my skills  
 
 ---
-
 ## 🛠️ Skills & Tools
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=html,css,js,Python,git,github,vscode" />
+  <img src="[https://skillicons.dev/icons?i=html,css,js,Python,git,github,vscode](https://skillicons.dev/icons?i=html,css,js,react,java,php,mysql,git,github,vscode)" />
 </p>
 
 ---
-
 ## 📌 Featured Projects
 
 - 🚀 Resume Builder Website  
 - 🌐 Portfolio Website
+- - 🌦️ Weather App  
+- 🩺 Symptoms Checker  
 
 ---
-
 <h3 align="center">✨ Thanks for visiting my profile! ✨</h3>
