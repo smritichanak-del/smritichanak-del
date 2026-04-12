@@ -34,15 +34,8 @@
 ## 🛠️ Skills & Tools
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=html,css,js,react,java,php,mysql,Python,git,github,vscode" />
+  <img src="https://skillicons.dev/icons?i=html,css,js,react,java,php,mysql,python,git,github,vscode" />
 </p>
 ---
-## 📌 Featured Projects
 
-- 🚀 Resume Builder Website  
-- 🌐 Portfolio Website
-- - 🌦️ Weather App  
-- 🩺 Symptoms Checker  
-
----
 <h3 align="center">✨ Thanks for visiting my profile! ✨</h3>
