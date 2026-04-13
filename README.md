@@ -1,4 +1,4 @@
-<h1 align="center">Hello 👋, I'm Smriti Chanak</h1>
+<h1 align="center">Hii 👋, I'm Smriti Chanak</h1>
 <h3 align="center">Full Stack Web Developer👩‍💻🌐</h3>
 
 ---
