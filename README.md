@@ -27,7 +27,7 @@
 - 🗄️ Strong understanding of DBMS  
 - 🧠 Practicing Data Structures & Algorithms (DSA)  
 - 🤖 Currently exploring AI & Machine Learning  
-- 🔥 Love building real-world projects  
+- 🔥 Love building Real-world projects  
 - 🌱 Always learning and improving my skills  
 
 ---
