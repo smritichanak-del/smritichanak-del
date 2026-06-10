@@ -13,11 +13,15 @@
   <a href="https://www.linkedin.com/in/smriti-chanak-395264398">
     <img src="https://img.icons8.com/color/48/linkedin.png" alt="LinkedIn"/>
   </a>
-  
+
   <a href="https://mail.google.com/mail/?view=cm&fs=1&to=smritichanak@gmail.com">
     <img src="https://img.icons8.com/color/48/gmail-new.png" alt="Gmail"/>
   </a>
-  
+</p>
+
+## 💻 Coding Profiles
+
+<p align="center">
   <a href="https://leetcode.com/u/smritichanak_del/">
     <img src="https://img.icons8.com/external-tal-revivo-color-tal-revivo/48/external-level-up-your-coding-skills-and-quickly-land-a-job-logo-color-tal-revivo.png" alt="LeetCode"/>
   </a>
