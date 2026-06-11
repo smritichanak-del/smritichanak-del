@@ -24,23 +24,26 @@
 
 <table>
 <tr>
-<td>
+<td width="60%">
 
 - 🎓 CSE Student
 - 💻 Passionate about Web Development & Problem Solving
 - 👩‍💻 Working with Java, React, PHP, MySQL and Python
 - 🗄️ Strong understanding of DBMS
-- 🧠 Practicing DSA
-- 🤖 Exploring AI & Machine Learning
+- 🧠 Practicing Data Structures & Algorithms (DSA)
+- 🤖 Currently exploring AI & Machine Learning
+- 🔥 Love building Real-world projects
+- 🌱 Always learning and improving my skills
 
 </td>
 
-<td>
-<img src="https://chatgpt.com/s/m_6a2af1ef21708191af788a79377888ea" width="300"/>
+<td width="40%" align="center">
+  <img src="./assets/girl_coder_ai_ml_enhanced.gif" width="320" alt="AI Girl Coder"/>
 </td>
 
 </tr>
 </table>
+
 ---
 ## 🛠️ Skills & Tools
 
