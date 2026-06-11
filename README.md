@@ -22,9 +22,7 @@
 ---
 ## 🚀 About Me
 
-<table>
-<tr>
-<td width="60%">
+<img align="right" alt="Smriti AI Coder" width="280" src="Smriti.png"/>
 
 - 🎓 CSE Student
 - 💻 Passionate about Web Development & Problem Solving
@@ -35,14 +33,7 @@
 - 🔥 Love building Real-world projects
 - 🌱 Always learning and improving my skills
 
-</td>
-
-<td width="40%" align="center">
-  <img src="Smriti.png" width="320" alt="Smriti AI Coder"/>
-</td>
-
-</tr>
-</table>
+<br clear="right"/>
 
 ---
 ## 🛠️ Skills & Tools
