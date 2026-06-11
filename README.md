@@ -22,15 +22,25 @@
 ---
 ## 🚀 About Me
 
-- 🎓 CSE Student  
-- 💻 Passionate about Web Development & Problem Solving  
-- 👩‍💻 Skilled in Java, React, PHP with MySQL, Python
-- 🗄️ Strong understanding of DBMS  
-- 🧠 Practicing Data Structures & Algorithms (DSA)  
-- 🤖 Currently exploring AI & Machine Learning  
-- 🔥 Love building Real-world projects  
-- 🌱 Always learning and improving my skills  
+<table>
+<tr>
+<td>
 
+- 🎓 CSE Student
+- 💻 Passionate about Web Development & Problem Solving
+- 👩‍💻 Working with Java, React, PHP, MySQL and Python
+- 🗄️ Strong understanding of DBMS
+- 🧠 Practicing DSA
+- 🤖 Exploring AI & Machine Learning
+
+</td>
+
+<td>
+<img src="https://chatgpt.com/s/m_6a2af1ef21708191af788a79377888ea" width="300"/>
+</td>
+
+</tr>
+</table>
 ---
 ## 🛠️ Skills & Tools
 
