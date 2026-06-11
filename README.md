@@ -38,7 +38,7 @@
 </td>
 
 <td width="40%" align="center">
-  <img src="girl_coder_ai_ml_enhanced.gif" width="320" alt="AI Girl Coder"/>
+  <img src="Smriti.png" width="320" alt="Smriti AI Coder"/>
 </td>
 
 </tr>
