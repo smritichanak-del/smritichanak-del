@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Smriti Chanak</h1>
-<h3 align="center">CSE Student | Full Stack Web Development Enthusiast 👩‍💻🌐</h3>
+<h3 align="center">  Full Stack Web Development Enthusiast 👩‍💻🌐</h3>
 
 <p align="center">
   <img src="https://readme-typing-svg.herokuapp.com?color=00F7FF&center=true&vCenter=true&lines=Web+Developer;Learning+AI+and+ML;Building+Creative+Projects" />
