@@ -23,7 +23,7 @@
 
 ## 🚀 About Me
 
-<img align="right" width="300" src="smrii-removebg-preview.png" alt="Developer Tech Stack"/>
+<img align="right" width="300" src="smriii.png" alt="Developer Tech Stack"/>
 
 - 🎓 CSE Student
 - 💻 Passionate about Web Development & Problem Solving
