@@ -46,12 +46,4 @@
 
 ---
 
-## 📊 GitHub Stats
-
-<p align="center">
-  <img height="170" src="https://github-readme-stats.vercel.app/api?username=smritichanak-del&show_icons=true&theme=tokyonight&hide_border=true" />
-</p>
-
----
-
 <h3 align="center">✨ Thanks for Visiting My Profile! ✨</h3>
