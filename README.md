@@ -22,7 +22,7 @@
 ---
 ## 🚀 About Me
 
-<img align="right" alt="Smriti AI Coder" width="280" src="Smriti.png"/>
+<img align="right" alt="Smriti AI Coder" width="280" src="smrii.png"/>
 
 - 🎓 CSE Student
 - 💻 Passionate about Web Development & Problem Solving
