@@ -1,13 +1,13 @@
-<h1 align="center">Hii 👋, I'm Smriti Chanak</h1>
-<h3 align="center">Full Stack Web Developer👩‍💻🌐</h3>
+<h1 align="center">Hi 👋, I'm Smriti Chanak</h1>
+<h3 align="center">CSE Student | Full Stack Web Development Enthusiast 👩‍💻🌐</h3>
 
----
 <p align="center">
   <img src="https://readme-typing-svg.herokuapp.com?color=00F7FF&center=true&vCenter=true&lines=Web+Developer;Learning+AI+and+ML;Building+Creative+Projects" />
 </p>
 
 ---
-## 🌐 Connect with me
+
+## 🌐 Connect with Me
 
 <p align="center">
   <a href="https://www.linkedin.com/in/smriti-chanak-395264398">
@@ -17,30 +17,47 @@
   <a href="https://mail.google.com/mail/?view=cm&fs=1&to=smritichanak@gmail.com">
     <img src="https://img.icons8.com/color/48/gmail-new.png" alt="Gmail"/>
   </a>
+
+  <a href="https://leetcode.com/u/smritichanak_del/">
+    <img src="https://img.icons8.com/external-tal-revivo-color-tal-revivo/48/external-level-up-your-coding-skills-and-quickly-land-a-job-logo-color-tal-revivo.png" alt="LeetCode"/>
+  </a>
 </p>
 
 ---
+
 ## 🚀 About Me
 
-<img align="right" alt="Smriti AI Coder" width="280" src="smrii.png"/>
+<img align="right" width="320" src="smrii.png" alt="Smriti Developer"/>
 
 - 🎓 CSE Student
 - 💻 Passionate about Web Development & Problem Solving
 - 👩‍💻 Working with Java, React, PHP, MySQL and Python
 - 🗄️ Strong understanding of DBMS
 - 🧠 Practicing Data Structures & Algorithms (DSA)
-- 🤖 Currently exploring AI & Machine Learning
-- 🔥 Love building Real-world projects
-- 🌱 Always learning and improving my skills
+- 🤖 Currently Exploring AI & Machine Learning
+- 🔥 Love Building Real-World Projects
+- 🌱 Always Learning and Improving My Skills
 
 <br clear="right"/>
 
 ---
+
 ## 🛠️ Skills & Tools
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=html,css,js,react,java,php,python,git,github,vscode" />
+  <img src="https://skillicons.dev/icons?i=html,css,js,react,java,php,python,mysql,git,github,vscode" />
 </p>
 
+---
 
-<h3 align="center">✨ Thanks for visiting my profile! ✨</h3>
+## 💻 Coding Profiles
+
+<p align="center">
+  <a href="https://leetcode.com/u/smritichanak_del/">
+    <img src="https://img.icons8.com/external-tal-revivo-color-tal-revivo/60/external-level-up-your-coding-skills-and-quickly-land-a-job-logo-color-tal-revivo.png"/>
+  </a>
+</p>
+
+---
+
+<h3 align="center">✨ Thanks for Visiting My Profile! ✨</h3>
